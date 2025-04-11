@@ -6,7 +6,7 @@
 일기 작성, 일기 수정, 일기 확인, 정렬, 웹스토리지 저장등등 <br/><br/>
 
 ## Languages&Tools
-![My Skills](https://skillicons.dev/icons?i=react,vite,js,html,css)]
+![My Skills](https://skillicons.dev/icons?i=react,vite,js,html,css)
 
 ![emotionDiaryPreview](https://github.com/orinery/2025_emotionDiary/blob/main/emotiondiary/public/emotionDiaryPreview.gif);
 
