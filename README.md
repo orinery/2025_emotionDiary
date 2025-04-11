@@ -8,6 +8,6 @@
 ## Languages&Tools
 ![My Skills](https://skillicons.dev/icons?i=react,vite,js,html,css)
 
-![emotionDiaryPreview](https://github.com/orinery/2025_emotionDiary/blob/main/emotiondiary/public/emotionDiaryPreview.gif);
+![emotionDiaryPreview](https://github.com/orinery/2025_emotionDiary/blob/main/emotiondiary/public/emotionDiaryPreview.gif)
 
 </div>
